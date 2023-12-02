@@ -1,2 +1,3 @@
 # twoface
-interface test
+Stupid app to explore interfaces and abstract classes.
+
